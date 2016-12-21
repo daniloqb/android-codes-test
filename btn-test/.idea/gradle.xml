@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="/x-files/github/android-codes-test/Countdown" />
-            <option value="/x-files/github/android-codes-test/Countdown/app" />
+            <option value="/x-files/github/android-codes-test/btn-test" />
+            <option value="/x-files/github/android-codes-test/btn-test/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
